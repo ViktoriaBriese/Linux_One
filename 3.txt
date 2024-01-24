@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+   brize    1195       1 ?        09:41:55 /usr/bin/mintty
+   brize    1343    1196 pty0     11:59:15 /usr/bin/ps
+   brize    1196    1195 pty0     09:41:55 /usr/bin/bash
